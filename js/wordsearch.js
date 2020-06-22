@@ -26,7 +26,7 @@
     var default_settings = {
       'directions': ['W', 'N', 'WN', 'EN'],
       'gridSize': 10,
-      'words': ['one', 'two', 'three', 'four', 'five'],
+      'words': ['sugar', 'glucose', 'fructose', 'lactose', 'Corn Syrup', 'Agave', 'Maltose', 'Sucrose'],
 	  'wordsList' : [],
       'debug': false
     }
